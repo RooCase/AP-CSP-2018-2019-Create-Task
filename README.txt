@@ -1,26 +1,7 @@
-# README for Create task #
+This is the exported copy of a webapp I wrote within code.org's framework for the 2018-19 school year's AP Computer Science Principles exam. 
+It's a time management tracker, designed for people who are self-employed to track multiple jobs, how long they've worked, etc. 
+It's currently in its most "complete" form, though it is missing some features I would have liked to implement when I first created it.
 
-This is the README file for the Create task app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+If you want to work on it, have at. It's mainly written in a modified version of JS. I'm sure the code will need some tweaking to work on anything that isn't code.org's servers.
 
-The files in this folder contain everything you need to run your app:
-
-* `applab/applab.js` - This file contains the applab library, which has all the
-  javascript that applab uses to run your app.
-
-* `applab/applab.css` - This file contains some default CSS styling for your app.
-
-* `index.html` - This is the html file that you designed in applab using the
-  Design tab. It contains all the buttons, text inputs, and other controls for
-  your app. Go here to add additional controls to your app.
-
-* `style.css` - This file defines the custom styling for each control in your
-  app that you specified under the Design tab. Go here to change the colors,
-  positions, dimensions, and other properties of your app's controls.
-
-* `code.js` - This file has all the code you wrote for your app. Go here to add
-  new behavior to your app.
-
-* `assets` - This is a directory with all the asset files (pictures and sounds)
-  that you uploaded in applab.
+Please excuse the angsty comments about how bad my code is. I was 16 and certain that every piece of code I touched was absolute garbage and complaining about it would make it better. 
